@@ -1,0 +1,1117 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/obj/Debug/net6.0/scopedcss/projectbundle/Itgeak.WEB.bundle.scp.css",
+      "PackagePath": "staticwebassets/Itgeak.WEB.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/css/main.css.map",
+      "PackagePath": "staticwebassets/css/main.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/css/main.min.css",
+      "PackagePath": "staticwebassets/css/main.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/css/main.min.css.map",
+      "PackagePath": "staticwebassets/css/main.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/BaronBlack/BaronBlack.eot",
+      "PackagePath": "staticwebassets/fonts/BaronBlack/BaronBlack.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/BaronBlack/BaronBlack.ttf",
+      "PackagePath": "staticwebassets/fonts/BaronBlack/BaronBlack.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/BaronBlack/BaronBlack.woff",
+      "PackagePath": "staticwebassets/fonts/BaronBlack/BaronBlack.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/BaronBold/BaronBold.eot",
+      "PackagePath": "staticwebassets/fonts/BaronBold/BaronBold.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/BaronBold/BaronBold.ttf",
+      "PackagePath": "staticwebassets/fonts/BaronBold/BaronBold.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/BaronBold/BaronBold.woff",
+      "PackagePath": "staticwebassets/fonts/BaronBold/BaronBold.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoBlack/RobotoBlack.eot",
+      "PackagePath": "staticwebassets/fonts/RobotoBlack/RobotoBlack.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoBlack/RobotoBlack.ttf",
+      "PackagePath": "staticwebassets/fonts/RobotoBlack/RobotoBlack.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoBlack/RobotoBlack.woff",
+      "PackagePath": "staticwebassets/fonts/RobotoBlack/RobotoBlack.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoBold/RobotoBold.eot",
+      "PackagePath": "staticwebassets/fonts/RobotoBold/RobotoBold.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoBold/RobotoBold.ttf",
+      "PackagePath": "staticwebassets/fonts/RobotoBold/RobotoBold.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoBold/RobotoBold.woff",
+      "PackagePath": "staticwebassets/fonts/RobotoBold/RobotoBold.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoMedium/RobotoMedium.eot",
+      "PackagePath": "staticwebassets/fonts/RobotoMedium/RobotoMedium.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoMedium/RobotoMedium.ttf",
+      "PackagePath": "staticwebassets/fonts/RobotoMedium/RobotoMedium.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoMedium/RobotoMedium.woff",
+      "PackagePath": "staticwebassets/fonts/RobotoMedium/RobotoMedium.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoRegular/RobotoRegular.eot",
+      "PackagePath": "staticwebassets/fonts/RobotoRegular/RobotoRegular.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoRegular/RobotoRegular.ttf",
+      "PackagePath": "staticwebassets/fonts/RobotoRegular/RobotoRegular.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/RobotoRegular/RobotoRegular.woff",
+      "PackagePath": "staticwebassets/fonts/RobotoRegular/RobotoRegular.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/ad-cube.jpg",
+      "PackagePath": "staticwebassets/img/ad-cube.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/ad-vertical.jpg",
+      "PackagePath": "staticwebassets/img/ad-vertical.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/diy/1.jpg",
+      "PackagePath": "staticwebassets/img/blog/diy/1.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/diy/2.jpg",
+      "PackagePath": "staticwebassets/img/blog/diy/2.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/diy/3.jpg",
+      "PackagePath": "staticwebassets/img/blog/diy/3.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/1.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/1.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/2.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/2.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/3.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/3.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/4.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/4.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/5.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/5.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/_test.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/_test.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/electronics/electronics.jpg",
+      "PackagePath": "staticwebassets/img/blog/electronics/electronics.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/lifehacks/14.jpg",
+      "PackagePath": "staticwebassets/img/blog/lifehacks/14.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/lifehacks/15.jpg",
+      "PackagePath": "staticwebassets/img/blog/lifehacks/15.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/lifehacks/16.jpg",
+      "PackagePath": "staticwebassets/img/blog/lifehacks/16.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/lifehacks/17.jpg",
+      "PackagePath": "staticwebassets/img/blog/lifehacks/17.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/news/6.jpg",
+      "PackagePath": "staticwebassets/img/blog/news/6.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/news/7.jpg",
+      "PackagePath": "staticwebassets/img/blog/news/7.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/news/8.jpg",
+      "PackagePath": "staticwebassets/img/blog/news/8.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/news/9.jpg",
+      "PackagePath": "staticwebassets/img/blog/news/9.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/reviews/10.jpg",
+      "PackagePath": "staticwebassets/img/blog/reviews/10.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/reviews/11.jpg",
+      "PackagePath": "staticwebassets/img/blog/reviews/11.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/reviews/12.jpg",
+      "PackagePath": "staticwebassets/img/blog/reviews/12.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/blog/reviews/13.jpg",
+      "PackagePath": "staticwebassets/img/blog/reviews/13.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/example.jpg",
+      "PackagePath": "staticwebassets/img/example.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/favicon/apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets/img/favicon/apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/favicon/apple-touch-icon-180x180.png",
+      "PackagePath": "staticwebassets/img/favicon/apple-touch-icon-180x180.png"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/favicon/apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets/img/favicon/apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/favicon/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/favicon/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/favicon/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon/favicon.ico"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/horizontal.jpg",
+      "PackagePath": "staticwebassets/img/horizontal.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/img/vk-witget.jpg",
+      "PackagePath": "staticwebassets/img/vk-witget.jpg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/js/common.js",
+      "PackagePath": "staticwebassets/js/common.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/js/scripts.min.js",
+      "PackagePath": "staticwebassets/js/scripts.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_bootstrap.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_bootstrap.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_code.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_code.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_custom-forms.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_custom-forms.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_input-group.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_input-group.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_jumbotron.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_jumbotron.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_media.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_media.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_print.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_print.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_background-variant.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_background-variant.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_float.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_float.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_grid-framework.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_grid-framework.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_nav-divider.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_nav-divider.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_screen-reader.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_size.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_size.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_table-row.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_table-row.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_text-emphasis.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_text-emphasis.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_text-hide.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_text-hide.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/mixins/_visibility.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/mixins/_visibility.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_align.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_align.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_background.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_background.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_borders.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_borders.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_clearfix.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_display.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_display.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_embed.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_embed.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_flex.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_flex.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_float.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_float.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_interactions.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_interactions.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_overflow.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_overflow.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_position.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_position.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_screenreaders.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_screenreaders.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_shadows.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_shadows.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_sizing.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_sizing.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_spacing.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_spacing.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_stretched-link.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_text.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_text.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/utilities/_visibility.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/utilities/_visibility.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/libs/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/libs/font-awesome/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/libs/font-awesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/libs/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/libs/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/libs/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/libs/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/libs/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/libs/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/libs/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/animated.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/animated.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/core.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/core.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/fixed-width.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/font-awesome.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/icons.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/icons.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/larger.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/larger.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/list.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/list.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/mixins.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/mixins.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/path.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/path.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/screen-reader.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/stacked.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/stacked.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/less/variables.less",
+      "PackagePath": "staticwebassets/libs/font-awesome/less/variables.less"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_font-awesome.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_font-awesome.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_path.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/font-awesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/libs/font-awesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/libs/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/libs/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/likely/likely.css",
+      "PackagePath": "staticwebassets/libs/likely/likely.css"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/likely/likely.js",
+      "PackagePath": "staticwebassets/libs/likely/likely.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/libs/prognroll/prognroll.js",
+      "PackagePath": "staticwebassets/libs/prognroll/prognroll.js"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/_media.scss",
+      "PackagePath": "staticwebassets/scss/_media.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/base/_fonts.scss",
+      "PackagePath": "staticwebassets/scss/base/_fonts.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/base/_global.scss",
+      "PackagePath": "staticwebassets/scss/base/_global.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/base/_libs.scss",
+      "PackagePath": "staticwebassets/scss/base/_libs.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/base/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/base/_mixins.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/base/_vars.scss",
+      "PackagePath": "staticwebassets/scss/base/_vars.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/components/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/scss/components/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/components/_button.scss",
+      "PackagePath": "staticwebassets/scss/components/_button.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/components/_custom-likely.scss",
+      "PackagePath": "staticwebassets/scss/components/_custom-likely.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/components/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/components/_pagination.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/layouts/_footer.scss",
+      "PackagePath": "staticwebassets/scss/layouts/_footer.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/layouts/_header.scss",
+      "PackagePath": "staticwebassets/scss/layouts/_header.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/layouts/_sidebar.scss",
+      "PackagePath": "staticwebassets/scss/layouts/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/main.scss",
+      "PackagePath": "staticwebassets/scss/main.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/pages/_about.scss",
+      "PackagePath": "staticwebassets/scss/pages/_about.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/pages/_all-posts.scss",
+      "PackagePath": "staticwebassets/scss/pages/_all-posts.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/pages/_category.scss",
+      "PackagePath": "staticwebassets/scss/pages/_category.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/pages/_index.scss",
+      "PackagePath": "staticwebassets/scss/pages/_index.scss"
+    },
+    {
+      "Id": "/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB/wwwroot/scss/pages/_page.scss",
+      "PackagePath": "staticwebassets/scss/pages/_page.scss"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Itgeak.WEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Itgeak.WEB.props",
+      "PackagePath": "build\\Itgeak.WEB.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Itgeak.WEB.props",
+      "PackagePath": "buildMultiTargeting\\Itgeak.WEB.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Itgeak.WEB.props",
+      "PackagePath": "buildTransitive\\Itgeak.WEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/bin/Debug/net6.0/Itgeak.BLL.deps.json
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/bin/Debug/net6.0/Itgeak.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/bin/Debug/net6.0/Itgeak.BLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.csproj.AssemblyReference.cache
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.AssemblyInfoInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.AssemblyInfo.cs
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.csproj.CoreCompileInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/refint/Itgeak.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/ref/Itgeak.BLL.dll

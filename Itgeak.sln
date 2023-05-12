@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itgeak.DAL", "src\Itgeak.DAL\Itgeak.DAL.csproj", "{D917F940-B5ED-43C6-8C41-BBEE91E81316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itgeak.BLL", "src\Itgeak.BLL\Itgeak.BLL.csproj", "{C1183314-3E76-4BA8-AD1C-69EEFC9ADD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itgeak.WEB", "src\Itgeak.WEB\Itgeak.WEB.csproj", "{24E5A8C3-7974-4DD3-B6BE-3B1842BDDA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D917F940-B5ED-43C6-8C41-BBEE91E81316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D917F940-B5ED-43C6-8C41-BBEE91E81316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D917F940-B5ED-43C6-8C41-BBEE91E81316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D917F940-B5ED-43C6-8C41-BBEE91E81316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1183314-3E76-4BA8-AD1C-69EEFC9ADD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1183314-3E76-4BA8-AD1C-69EEFC9ADD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1183314-3E76-4BA8-AD1C-69EEFC9ADD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1183314-3E76-4BA8-AD1C-69EEFC9ADD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E5A8C3-7974-4DD3-B6BE-3B1842BDDA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E5A8C3-7974-4DD3-B6BE-3B1842BDDA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E5A8C3-7974-4DD3-B6BE-3B1842BDDA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E5A8C3-7974-4DD3-B6BE-3B1842BDDA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
