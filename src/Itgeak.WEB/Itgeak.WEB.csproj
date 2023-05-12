@@ -14,4 +14,9 @@
       <Folder Include="Pages" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Itgeak.BLL\Itgeak.BLL.csproj" />
+      <ProjectReference Include="..\Itgeak.DAL\Itgeak.DAL.csproj" />
+    </ItemGroup>
+
 </Project>
