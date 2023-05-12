@@ -1,5 +1,6 @@
 using Itgeak.DAL.Data;
 using Itgeak.DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace Itgeak.BLL.Repositories;
 
@@ -10,33 +11,38 @@ public class GenericRepositoryAsync<T> : IGenericRepositoryAsync<T> where T : cl
     {
         _db = db;
     }
-    public Task<IReadOnlyList<T>> ListAllAsync()
+    public async Task<IReadOnlyList<T>> ListAllAsync()
     {
-        throw new NotImplementedException();
+        return await _db.Set<T>().ToListAsync();
     }
 
-    public Task<T> GetByIDAsync(int id)
+    public async Task<T> GetByIDAsync(int id)
     {
-        throw new NotImplementedException();
+        return await _db.Set<T>().FirstAsync();
     }
 
-    public Task<T> InsertAsync(T entity)
+    public async Task<T> InsertAsync(T entity)
     {
-        throw new NotImplementedException();
+        await _db.Set<T>().AddAsync(entity);
+        await _db.SaveChangesAsync();
+        
+        return entity;
     }
 
-    public Task UpdateAsync(T entity)
+    public async Task UpdateAsync(T entity)
     {
-        throw new NotImplementedException();
+        _db.Entry(entity).State = EntityState.Modified;
+        await _db.SaveChangesAsync();
     }
 
-    public Task DeleteAsync(T entity)
+    public async Task DeleteAsync(T entity)
     {
-        throw new NotImplementedException();
+        _db.Set<T>().Remove(entity);
+        await _db.SaveChangesAsync();
     }
 
-    public Task<IReadOnlyList<T>> GetPagedAsync(int page, int size)
+    public async Task<IReadOnlyList<T>> GetPagedAsync(int page, int size)
     {
-        throw new NotImplementedException();
+        return await _db.Set<T>().Skip((page - 1) * size).Take(size).ToListAsync();
     }
 }
