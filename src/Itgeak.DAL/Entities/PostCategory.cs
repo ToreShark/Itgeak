@@ -1,5 +1,7 @@
-namespace Itgeak.DAL.Entities;
+using Microsoft.EntityFrameworkCore;
 
+namespace Itgeak.DAL.Entities;
+[Keyless]
 public class PostCategory
 {
     public int PostId { get; set; }

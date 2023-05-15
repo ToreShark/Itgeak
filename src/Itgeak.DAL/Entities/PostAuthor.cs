@@ -1,5 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace Itgeak.DAL.Entities;
 
+[Keyless]
 public class PostAuthor
 {
     public int PostId { get; set; }
