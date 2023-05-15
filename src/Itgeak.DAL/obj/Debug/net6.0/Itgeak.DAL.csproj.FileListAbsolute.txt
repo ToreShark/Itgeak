@@ -10,3 +10,5 @@
 /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.DAL/obj/Debug/net6.0/refint/Itgeak.DAL.dll
 /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.DAL/obj/Debug/net6.0/Itgeak.DAL.pdb
 /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.DAL/obj/Debug/net6.0/ref/Itgeak.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.DAL/bin/Debug/net6.0/Itgeak.DAL.runtimeconfig.json
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.DAL/obj/Debug/net6.0/Itgeak.DAL.genruntimeconfig.cache

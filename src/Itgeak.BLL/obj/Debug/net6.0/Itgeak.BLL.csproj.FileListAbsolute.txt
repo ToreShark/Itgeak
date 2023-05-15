@@ -10,3 +10,6 @@
 /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/refint/Itgeak.BLL.dll
 /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.pdb
 /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/ref/Itgeak.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/bin/Debug/net6.0/Itgeak.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/bin/Debug/net6.0/Itgeak.DAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.BLL/obj/Debug/net6.0/Itgeak.BLL.csproj.CopyComplete

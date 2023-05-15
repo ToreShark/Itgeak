@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/torekhanmukhtarov/Desktop/c#/itgeak/app/Itgeak/src/Itgeak.WEB
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/torekhanmukhtarov/Desktop/c\#/itgeak/app/Itgeak/src/Itgeak.WEB/Areas/Admin/Views/DashBoard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaEJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/torekhanmukhtarov/Desktop/c\#/itgeak/app/Itgeak/src/Itgeak.WEB/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/torekhanmukhtarov/Desktop/c\#/itgeak/app/Itgeak/src/Itgeak.WEB/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/torekhanmukhtarov/Desktop/c\#/itgeak/app/Itgeak/src/Itgeak.WEB/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/torekhanmukhtarov/Desktop/c\#/itgeak/app/Itgeak/src/Itgeak.WEB/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
